@@ -7,7 +7,7 @@ eureka:
 
 ---
 spring:
-  profiles: subject
+  profiles: ms-subject
 words: I,You,He,She,It
   
 ---
